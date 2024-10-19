@@ -1,7 +1,7 @@
 # Odin Recipes
 
 
-Demo: <a href="https://whiteberrie.github.io/odin-recipes/" target="_blank">Recipes</a>
+Demo: <a href="https://whiteberrie.github.io/odin-recipes/" target="_blank" rel="nofollow>Recipes</a>
 
 In this project I will showcase everything I've learnt so far. 
 
