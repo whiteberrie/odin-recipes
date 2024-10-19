@@ -2,4 +2,6 @@
 
 In this project I will showcase everything I've learnt so far. 
 
-I will be using HTML to create a recipe website.
+The skill that I'm picking up from this project are:
+1. HTML
+2. Git Basics
