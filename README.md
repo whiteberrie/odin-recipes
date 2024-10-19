@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 In this project I will showcase everything I've learnt so far. 
 
